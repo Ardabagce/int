@@ -1,0 +1,22 @@
+{
+  "name": "int",
+  "version": "1.0.0",
+  "description": "WebCMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ardabagce/int.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ardabagce/int/issues"
+  },
+  "homepage": "https://github.com/Ardabagce/int#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
